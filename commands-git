@@ -1,0 +1,10 @@
+git clone https://github.com/Enzo-Lorenzelli/test3
+
+# Ajouter tous les fichiers modifiés ou nouveaux à la zone de staging
+git add .
+
+# Créer un nouveau commit avec un message
+git commit -m "Message de commit ici"
+
+# Poussez vos modifications vers le dépôt distant
+git push origin main
